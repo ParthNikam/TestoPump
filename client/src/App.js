@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { Container, AppBar, Typography, Grow, Grid } from "@material-ui/core";
 
-import lion  from "./images/testopump.png";
+import lion  from "./logo_images/testopump.png";
 import Posts from "./components/Posts/Posts";
 import Form  from "./components/Posts/Crawl";
 import useStyles from './styles';
